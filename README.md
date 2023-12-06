@@ -11,6 +11,5 @@
 <h3 align='center'>Home Page</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/218077675-f50ac9ae-8d2c-4196-aed8-f4490e142960.png'/>
-
+<img src= 'https://github.com/sulekha127/car-rental/blob/main/src/images/Car_Rental_HomePage_SS.jpg?raw=true'/>
 </div>
